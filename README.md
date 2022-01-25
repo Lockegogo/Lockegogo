@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lockegogo
-- 👀 I’m interested in data science, machine learning, NLP, and so on.
-- 🌱 I’m currently learning Natural Language Processing.
+- 👀 I’m interested in NLP, Reinforcement Learning, Knowledge Graph, and so on.
+- 🌱 I’m currently learning construction of medical knowledge graphs.
 - 📫 My email is lmzhao31@outlook.com
 
 <!---
