@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lockegogo
-- 👀 I’m interested in NLP, Reinforcement Learning, Knowledge Graph, and so on.
-- 🌱 I’m currently learning construction of medical knowledge graphs.
+- 👀 I’m interested in Deep Learning, Reinforcement Learning, Knowledge Graph, and so on.
+- 🌱 I’m currently learning Privacy-Preserving Computation and Federated Learning.
 - 📫 My email is lmzhao31@outlook.com
 
 <!---
